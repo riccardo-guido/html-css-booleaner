@@ -19,3 +19,7 @@ header {
 article {
   color: grey;
 }
+
+.evidenziato {
+  background: yellow;
+}
