@@ -11,3 +11,11 @@ header {
   top: 20px;
   left: 20px;
 }
+
+.author {
+  color: rgb(62, 145, 239);
+}
+
+article {
+  color: grey;
+}
