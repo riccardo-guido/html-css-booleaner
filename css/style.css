@@ -23,3 +23,23 @@ article {
 .evidenziato {
   background: yellow;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 1px;
+  text-align: left;
+  background-color: rgb(41, 197, 250);
+  text-decoration-color: white;
+}
+
+td {
+  height: 50px;
+  text-align: left;
+}
+.colorate {
+  background-color: rgb(133, 211, 237);
+}
