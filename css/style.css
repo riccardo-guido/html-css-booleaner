@@ -1,0 +1,13 @@
+header {
+  background-image: url(../img/pattern.png);
+  background-color: rgb(62, 145, 239);
+  height: 80px;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
